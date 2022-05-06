@@ -1,0 +1,15 @@
+.header{
+    height:30px;
+list-style-type:none;
+display:flex;
+text-align:center;
+padding-left: 50px;
+
+}
+
+.header li{
+    height:30px;
+    width:150px;
+
+border:1px solid
+}

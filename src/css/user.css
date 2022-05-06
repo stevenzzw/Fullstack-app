@@ -1,0 +1,18 @@
+* {
+    list-style-type: none
+}
+
+.user-list {
+    height            : 30px;
+    /* list-style-type:none; */
+   display:flex;
+   
+    text-align: center;
+}
+
+.user-list li {
+    height  : 30px;
+    width   : 150px;
+   
+    border  : 1px solid
+}
